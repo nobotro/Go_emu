@@ -1,4 +1,4 @@
-module risc-v_emulator
+module Go_emu
 
 go 1.22
 
