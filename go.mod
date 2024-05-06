@@ -1,4 +1,4 @@
-module Go_emu
+ module github.com/nobotro/Go_emu
 
 go 1.22
 
