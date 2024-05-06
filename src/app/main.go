@@ -15,7 +15,7 @@ type Appmodel struct {
 func initialModel() Appmodel {
 
 	model := Appmodel{emulator: &cpu.Cpu{}}
-	model.emulator.LoadRom("/home/rom")
+	model.emulator.LoadRom("../test_roms/PrintDigits_rom")
 	return model
 }
 
