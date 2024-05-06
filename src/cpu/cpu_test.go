@@ -472,7 +472,7 @@ func TestControlHazardHandler(t *testing.T) {
 }
 
 func TestRomExecution(t *testing.T) {
-	file, error := os.Open("/home/user/Risc-v-chip8/sdk/rom")
+	file, error := os.Open("../test_roms/TestRomExecution_rom")
 	if error != nil {
 		log.Fatal(error)
 	}
