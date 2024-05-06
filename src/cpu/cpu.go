@@ -8,8 +8,8 @@ import (
 	"log"
 	"math/bits"
 	"os"
-	"risc-v_emulator/src/ram"
-	"risc-v_emulator/src/register"
+	"Go_emu/src/ram"
+	"Go_emu/src/register"
 )
 
 type InstructionType uint32

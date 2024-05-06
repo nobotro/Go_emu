@@ -3,7 +3,7 @@ package main
 import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"risc-v_emulator/src/cpu"
+	"Go_emu/src/cpu"
 	"strings"
 	"time"
 )

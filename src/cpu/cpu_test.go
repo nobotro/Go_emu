@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 	"reflect"
-	"risc-v_emulator/src/register"
+	"Go_emu/src/register"
 	"testing"
 )
 
