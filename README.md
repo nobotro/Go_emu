@@ -1,6 +1,6 @@
 ## Go_emu
 Go lang risc-v 5 stage pipeline emulator with terminal based display.
-It can to execute bare metal risc-v compiled rom and draw some pixels in terminal display.
+It can to execute bare metal risc-v rv32i compiled rom and draw some pixels in terminal display.
 
 ##
 The project is entirely academic, it does not aim to be competitive against complex implementations. 
